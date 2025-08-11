@@ -58,13 +58,10 @@ repo_url: https://krunalappdev.github.io/tapx_card_lts/repo
 # feature.
 # repo_web_base_url: https://MyFirstFDroidRepo.org/packages/
 #
-# repo_name: My First F-Droid Repo Demo
-# repo_description: >-
-#   This is a repository of apps to be used with F-Droid. Applications
-#   in this repository are either official binaries built by the
-#   original application developers, or are binaries built from source
-#   by the admin of f-droid.org using the tools on
-#   https://gitlab.com/fdroid.
+repo_name: TapXCard-Transform Your Payments
+repo_description: >-
+  Experience the future of payments with TAPxCard. Borderless transactions, limitless possibilities, and unmatched security.
+  https://krunalappdev.github.io/tapx_card_lts.
 
 # As above, but for the archive repo.
 #
