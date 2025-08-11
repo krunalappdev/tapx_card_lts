@@ -1,0 +1,46 @@
+{
+  "METADATA_VERSION": 20002,
+  "allow_disabled_algorithms": false,
+  "app-release-signed.apk": {
+    "hash": "c798a2b4d49a4dcfe67f5d688ad990d4aaad9f5c8c6164cd7ac2a0ff6659e5e8",
+    "hashType": "sha256",
+    "uses-permission": [
+      [
+        "android.permission.POST_NOTIFICATIONS",
+        null
+      ],
+      [
+        "io.tapxcard.app.twa.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION",
+        null
+      ]
+    ],
+    "uses-permission-sdk-23": [],
+    "features": [],
+    "icons_src": {},
+    "icons": {},
+    "antiFeatures": {},
+    "packageName": "io.tapxcard.app.twa",
+    "versionCode": 1,
+    "name": "TapXCard",
+    "versionName": "1",
+    "minSdkVersion": 21,
+    "targetSdkVersion": 35,
+    "sig": "4e87b885979917ecea2da0a86cd3af86",
+    "signer": "54b839105dc302c4c6fcd3b10f6ad42273c41c2d3b3e3064ccf0881940e55c11",
+    "size": 1396853,
+    "apkName": "app-release-signed.apk",
+    "added": 1754917655.175226
+  },
+  ".DS_Store": {
+    "name": ".DS_Store",
+    "apkName": ".DS_Store",
+    "hash": "9656f9f302a44bd971523fefc48e4f62f0f2f4a52cccf237672fe85fa97ad65f",
+    "hashType": "sha256",
+    "ipfsCIDv1": null,
+    "versionCode": 0,
+    "versionName": "9656f9f",
+    "packageName": "9656f9f302a44bd971523fefc48e4f62f0f2f4a52cccf237672fe85fa97ad65f",
+    "size": 8196,
+    "added": 1754917655.176871
+  }
+}
