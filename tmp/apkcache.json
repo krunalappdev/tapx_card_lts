@@ -2,7 +2,7 @@
   "METADATA_VERSION": 20002,
   "allow_disabled_algorithms": false,
   "app-release-signed.apk": {
-    "hash": "c798a2b4d49a4dcfe67f5d688ad990d4aaad9f5c8c6164cd7ac2a0ff6659e5e8",
+    "hash": "c941a22fff98c71e6b264adb1e5d0a7c78834bbc3acbf4d20684f5cf946cafdb",
     "hashType": "sha256",
     "uses-permission": [
       [
@@ -29,18 +29,18 @@
     "signer": "54b839105dc302c4c6fcd3b10f6ad42273c41c2d3b3e3064ccf0881940e55c11",
     "size": 1396853,
     "apkName": "app-release-signed.apk",
-    "added": 1754918714.321198
+    "added": 1754918714.0
   },
   ".DS_Store": {
     "name": ".DS_Store",
     "apkName": ".DS_Store",
-    "hash": "11d1215e971ee8df1bda6eb38f863bf04bc07c7182a9a1dd94f66946de7cac23",
+    "hash": "20a346e57688ed73a20197eb4560d5efc940945990d701eb6008602e47fb6190",
     "hashType": "sha256",
     "ipfsCIDv1": null,
     "versionCode": 0,
-    "versionName": "11d1215",
-    "packageName": "11d1215e971ee8df1bda6eb38f863bf04bc07c7182a9a1dd94f66946de7cac23",
-    "size": 6148,
-    "added": 1754918714.321676
+    "versionName": "20a346e",
+    "packageName": "20a346e57688ed73a20197eb4560d5efc940945990d701eb6008602e47fb6190",
+    "size": 8196,
+    "added": 1754920188.841327
   }
 }
